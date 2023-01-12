@@ -156,7 +156,7 @@ Pada bagian dari daftar_nilai.py berisi program dengan perintah menambahkan data
 
 # Tampilan output hapus data :
 
-![](gambar/Screenshot(22).png)
+![](gambar/Screenshot.png)
 
 
 # 3. view_nilai.py berisi sourcode yg berfungsi menampilkan seluruh data

@@ -151,7 +151,7 @@ class Data_mahasiswa:
 
 Pada bagian dari daftar_nilai.py berisi program dengan perintah menambahkan data, hapus data, ubah data NIM, dan mencari salah satu data yg sudah di input.
 # Tampilan output tambah data :
-![](gambar/Screenshot (17).png)
+![](gambar/Screenshot.png)
 
 # Tampilan output hapus data :
 ![](gambar/Screenshot (22).png)

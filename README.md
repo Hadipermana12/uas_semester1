@@ -1,11 +1,9 @@
 # uas_semester1
 
 # Profil
-Variable 	Isi
-Nama 	Hadi permana
-NIM 	312210445
-Kelas 	TI.22.A.4
-Mata Kuliah 	Bahasa Pemrograman
+Nama : hadi permana
+Nim  : 312210445
+kelas: TI.22.A4
 
 # Buatlah package dan modul dengan struktur seperti berikut:
 
@@ -202,4 +200,6 @@ def nilai():
 
 Di program ini terdapat modul yg menyambungkann input_nilai.py kedalam file program daftar_nilai.py dengan syntax from model import daftar_nilai. Fitur ini khusus untuk menginput nilai
 Tampilan output input_nilai.py :
-![](gambar/Screenshot (21).png)
+
+
+![](gambar/Screenshot(21).png)

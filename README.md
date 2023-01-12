@@ -2,8 +2,8 @@
 
 # Profil
 Variable 	Isi
-Nama 	Ricky Alfian Saputra
-NIM 	312210279
+Nama 	Hadi permana
+NIM 	312210445
 Kelas 	TI.22.A.4
 Mata Kuliah 	Bahasa Pemrograman
 
